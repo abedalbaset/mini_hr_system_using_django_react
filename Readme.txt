@@ -7,7 +7,7 @@ Reactjs to handle the front end
 
 Addtional :
 
-- This project to configure to handle S3 
+- This project can handle S3 
 - its include unit test to test the database by adding one row 
 
 

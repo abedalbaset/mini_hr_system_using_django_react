@@ -40,7 +40,7 @@ run frontedn by navigate to hr_frontend and using termeninal/cmd  run these comm
 - npm start 
 
 
-note its by default will run backend in localhost: 
+note its by default will run backend and frontend in localhost: 
 frontend: http://127.0.0.1:3000
 backend: http://127.0.0.1:8000
 
